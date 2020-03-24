@@ -6,9 +6,9 @@
 
 学习资料地址：https://github.com/datawhalechina/team-learning
 
-[Task01：赛题理解，熟悉blog打卡方式，组队和修改群名片（1Day）]()
+[Task01：赛题理解，熟悉blog打卡方式，组队和修改群名片（1Day）](https://github.com/makeittrue/data-mining_learning_note/tree/master/Task01)
 
-[Task02：数据的探索性分析（EDA）（3Day）]()
+[Task02：数据的探索性分析（EDA）（3Day）](https://github.com/makeittrue/data-mining_learning_note/tree/master/Task02)
 
 [Task03：数据的特征工程（3Day）]()
 
