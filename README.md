@@ -10,7 +10,7 @@
 
 [Task02：数据的探索性分析（EDA）（3Day）](https://github.com/makeittrue/data-mining_learning_note/tree/master/Task02)
 
-[Task03：数据的特征工程（3Day）]()
+[Task03：数据的特征工程（3Day）](https://github.com/makeittrue/data-mining_learning_note/tree/master/Task03)
 
 [Task04：建模与调参（4Day）]()
 
