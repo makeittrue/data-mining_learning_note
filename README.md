@@ -12,6 +12,6 @@
 
 [Task03：数据的特征工程（3Day）](https://github.com/makeittrue/data-mining_learning_note/tree/master/Task03)
 
-[Task04：建模与调参（4Day）]()
+[Task04：建模与调参（4Day）](https://github.com/makeittrue/data-mining_learning_note/tree/master/Task04)
 
 [Task05：模型结果融合（3Day）]()
