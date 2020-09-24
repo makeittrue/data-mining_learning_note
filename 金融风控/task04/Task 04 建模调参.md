@@ -174,7 +174,7 @@ LSTM：https://zhuanlan.zhihu.com/p/83496936
 
 根据分类结果计算得到ROC空间中相应的点，连接这些点就形成ROC curve，横坐标为False Positive Rate(FPR：假正率)，纵坐标为True Positive Rate(TPR：真正率)。 一般情况下，这个曲线都应该处于(0,0)和(1,1)连线的上方,如图：
 
-![img](C:\Users\14675\Documents\GitHub\data-mining_learning_note\金融风控\task04\90.png)
+![img](90.png)
 
 ROC曲线中的四个点：
 
@@ -368,7 +368,7 @@ plt.show()
 
 **未调参前lightgbm单模型在验证集上的AUC：0.7249469360631181**
 
-![img](C:\Users\14675\Documents\GitHub\data-mining_learning_note\金融风控\task04\91.png)
+![img](91.png)
 
 更进一步的，使用**5折交叉验证**进行模型性能评估
 
@@ -868,7 +868,7 @@ Early stopping, best iteration is:
 调参后lightgbm单模型在验证集上的AUC：0.7317405262608612
 ```
 
-![img](C:\Users\14675\Documents\GitHub\data-mining_learning_note\金融风控\task04\92.png)
+![img](92.png)
 
 可以看到相比最早的原始参数，模型的性能还是有提升的
 
